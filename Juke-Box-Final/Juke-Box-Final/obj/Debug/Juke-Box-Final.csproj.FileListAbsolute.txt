@@ -1,0 +1,17 @@
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\bin\Debug\Juke-Box-Final.exe.config
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\bin\Debug\Juke-Box-Final.exe
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\bin\Debug\Juke-Box-Final.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\bin\Debug\Interop.WMPLib.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\bin\Debug\AxInterop.WMPLib.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke-Box-Final.csprojResolveAssemblyReference.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Interop.WMPLib.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\AxInterop.WMPLib.dll
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke-Box-Final.csproj.ResolveComReference.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke_Box_Final.Form1.resources
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke_Box_Final.Properties.Resources.resources
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke-Box-Final.csproj.GenerateResource.Cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke-Box-Final.csproj.CoreCompileInputs.cache
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke-Box-Final.exe
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke-Box-Final.pdb
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke_Box_Final.Setup.resources
+\\studenthome.hallam.shu.ac.uk\STUDENTHOME7\6\b6007986\MyWork\Visual Studio 2017\Projects\Juke-Box-Final\Juke-Box-Final\Juke-Box-Final\obj\Debug\Juke_Box_Final.About.resources
